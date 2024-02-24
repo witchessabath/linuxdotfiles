@@ -1,7 +1,0 @@
-@theme "/usr/share/rofi/themes/solarized_alternate.rasi"
-* {
-    name: "Bitwarden";
-    command: "~/scripts/launchbitwarden.sh";
-    run-list: [ "Bitwarden" ];
-}
-
