@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Bitwarden
-Comment=Secure Password Manager
-Exec=/home/lily//Bitwarden-2023.8.4-x86_64.AppImage
-#Icon=/path/to/bitwarden-icon.png (if you have a Bitwarden icon)
-Type=Application
-Categories=Security;Utility;
-Terminal=false
-
